@@ -1,0 +1,2 @@
+# LongHaoMing.github.io
+MyBlog
